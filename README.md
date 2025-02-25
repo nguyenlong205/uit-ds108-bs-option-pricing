@@ -10,15 +10,15 @@ This GitHub repository contains the complete final project report for the subjec
 
 ## Project's Structure
 ```plaintext
-├── notebooks/                   \# Folder containing Jupyter notebooks for analysis  
-│   ├── analysis.ipynb           \# Main notebook for data analysis and results  
-├── scripts/                     \# Folder containing Python scripts for data processing  
-│   └── data_cleaning.py         \# Script for cleaning and preprocessing data  
-├── results/                     \# Folder containing final results and visualizations  
-│   ├── regression_results.pdf   \# PDF with regression analysis output  
-│   └── probability_plots.png    \# Plot images from probability distributions  
-├── requirements.txt             \# List of Python dependencies for the project  
-└── README.md                    \# Project documentation (this file)  
+├── notebooks/
+│   ├── analysis.ipynb           
+├── scripts/
+│   └── data_cleaning.py         
+├── results/
+│   ├── regression_results.pdf     
+│   └── probability_plots.png     
+├── requirements.txt             
+└── README.md                    
 ```
 
 
